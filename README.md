@@ -14,9 +14,9 @@ The project was built using the following technologies:
 
 Before you begin, ensure you have the following tools installed:
 
-* (Git)[https://git-scm.com/]
-* (Node.js)[https://nodejs.org/en]
-* A code editor such as (VSCode)[https://code.visualstudio.com/]
+* [Git](https://git-scm.com/)
+* [Node.js](https://nodejs.org/en)
+* A code editor such as [VSCode](https://code.visualstudio.com/)
 
 # 🚀 Getting Started
 
