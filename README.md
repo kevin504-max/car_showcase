@@ -10,7 +10,7 @@ The project was built using the following technologies:
 * [TailWind CSS](https://tailwindcss.com/)
 * [TypeScript](https://www.typescriptlang.org/)
 
-# 📌Prerequisites
+### 📌Prerequisites
 
 Before you begin, ensure you have the following tools installed:
 
@@ -18,7 +18,7 @@ Before you begin, ensure you have the following tools installed:
 * [Node.js](https://nodejs.org/en)
 * A code editor such as [VSCode](https://code.visualstudio.com/)
 
-# 🚀 Getting Started
+### 🚀 Getting Started
 
 1. Clone this repository:
 
@@ -40,7 +40,7 @@ npm run dev
 
 The website will now be accessible at `http://localhost:3000`.
 
-# ✅ Features
+### ✅ Features
 
 * Search for cars based on name, model, year, and fuel type.
 * Dynamic URL structure allows passing filters through the URL.
@@ -49,7 +49,7 @@ The website will now be accessible at `http://localhost:3000`.
 * Client-side rendering for faster navigation between pages.
 * Built using Next.js, Tailwind CSS, and TypeScript.
 
-# 📝 Project Structure
+### 📝 Project Structure
 
 The project follows the principles of clean code and good organization practices. Some highlights include:
 
@@ -63,7 +63,7 @@ The project follows the principles of clean code and good organization practices
 
 Feel free to contribute to this project by creating pull requests or submitting issues if you encounter any problems.
 
-# 🧠 Acknowledgements
+### 🧠 Acknowledgements
 
 This project was made possible with the support of the following technologies:
 
