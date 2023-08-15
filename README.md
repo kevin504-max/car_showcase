@@ -32,7 +32,12 @@ git clone https://github.com/kevin504-max/car_showcase.git
 cd car_showcase
 ```
 
-3. Start the development server:
+3. Install the dependecies:
+```bash
+npm install
+```
+
+4. Start the development server:
 
 ```bash
 npm run dev
